@@ -1,0 +1,12 @@
+[package]
+name = "tugurio"
+version = "0.1.0"
+edition = "2024"
+description = "Arch Linux repo creator"
+authors = ["Javier Orfo <javierorfo@protonmail.com>"]
+license = "MIT"
+repository = "https://github.com/javiorfo/tugurio"
+homepage = "https://github.com/javiorfo/tugurio#readme"
+keywords = ["archlinux", "own repository", "arch packages"]
+
+[dependencies]
